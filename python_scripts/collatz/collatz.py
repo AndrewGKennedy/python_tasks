@@ -1,4 +1,4 @@
-# Andrew Kennedy goo
+# Andrew Kennedy 
 # 18/02/2018
 # Revision 1.0
 # Origin https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff  

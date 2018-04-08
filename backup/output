@@ -1,0 +1,18 @@
+Fibonacci number 30 is 832040
+The main(argv[0]):is is the name of the script:  answer_tsks_1_2.py
+Second argument:  Andrew
+name: Andrew
+FirstLetter: A
+NameLength 6
+LastLetter: w
+debug --lastletter is incoming  A
+debug - position(string) position is:  1
+debug --lastletter is incoming  w
+debug - position(string) position is:  23
+Fibonacci for first letter is: 1
+Fibonacci for last letter is: 28657
+Total fibonacci is: 28658
+My surname is Kennedy
+The first letter K is number 75
+The last letter y is number 121
+Fibonacci number 196 is 40934782466626840596168752972961528246147

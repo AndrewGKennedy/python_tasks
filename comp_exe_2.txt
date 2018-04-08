@@ -1,0 +1,11 @@
+ASCII cHARS: Andrew K
+ASCII HEX: 41 6e 64 72 65 77 20 4b 
+ASCII BINARY: 01000001 01101110 01100100 01110010 01100101 01110111 00100000 01001011 
+
+
+Bjarne Stroustrup, specified C++ Object Oriented Programming languate at Bell Labs. https://en.wikipedia.org/wiki/Bjarne_Stroustrup. Born 30 December 1950
+
+1950
+
+Binary:
+Hex: 
